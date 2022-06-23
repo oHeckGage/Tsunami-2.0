@@ -15,6 +15,11 @@
         "location": "/games/files/webretro/?core=genesis_plus_gx"
     },
     {
+        "title": "Modded Minecraft Multiplayer",
+        "image": "/games/images/justfall-lol.jpg",
+        "location": "/uv.html?url=https://m.triway.live"
+    },
+    {
         "title": "NES",
         "image": "/games/images/nes.png",
         "location": "/games/files/webretro/?core=nestopia"
